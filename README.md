@@ -26,7 +26,7 @@ As someone enthusiastic about diving deeper into data visualization, this dashbo
 
 ![Dashboard 1](<img width="1160" height="556" alt="Screenshot 2025-07-23 221059" src="https://github.com/user-attachments/assets/f1f580e6-38d9-405b-aed0-2d962006dc4f" />
 ./assets/airbnb-dashboard-1.png)
-![Dashboard 2](./assets/airbnb-dashboard-2.png)
+![Dashboard 2](<img width="1128" height="529" alt="Screenshot 2025-07-23 221125" src="https://github.com/user-attachments/assets/bf24581c-e452-468d-b444-0c920c262a2c" />./assets/airbnb-dashboard-2.png)
 
 ---
 
